@@ -8,3 +8,7 @@ model.py has the training module and the flask framework which is the complete a
 it trains using the csv file and then predicts on the newly provide image from the android app, whether the image is melanoma or benign. 
 
 Dataset Used - ph2 dataset
+
+Other contibutors - Nishant Basu
+                    Siddharth gulia
+                   
