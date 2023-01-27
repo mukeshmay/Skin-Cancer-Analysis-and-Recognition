@@ -9,6 +9,7 @@ it trains using the csv file and then predicts on the newly provide image from t
 
 Dataset Used - ph2 dataset
 
-Other contibutors - Nishant Basu and 
+Other contibutors - Nishant Basu,
+                    Pratyush paliwal and 
                     Siddharth gulia
                    
